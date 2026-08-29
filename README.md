@@ -1,25 +1,29 @@
 ## Angie Spaw
 
-**I build AI automations for operations-heavy businesses.**
+**AI workflows built on operations that actually hold up.**
 
-Founder of [Haven Point Consulting](https://havenpointconsulting.com). My background is enterprise deal operations at Microsoft, where I handled contracts and supported complex strategic deals for Fortune 500 customers. I do that work fractionally now for smaller teams, and I build the AI-assisted systems that keep the process running after the engagement ends.
+Founder of [Haven Point Consulting](https://havenpointconsulting.com). I bring Microsoft enterprise operations discipline to AI implementation, then build the automations and integrations your team keeps using.
 
-### What I build
+The goal is not technology for its own sake. It is better decisions, stronger processes, and less operational friction.
 
-- **Workflow automations.** Intake, routing, follow-up, and reporting for teams still doing it by hand.
-- **Custom AI agents and prompt systems.** Purpose-built assistants for a specific business process, documented so the team can actually run them without me.
-- **Deal Desk and RevOps frameworks.** Approval paths, quote-to-cash workflows, and the handoffs between sales, finance, and legal.
-- **Operations documentation.** Turning process that lives in one person's head into something repeatable.
+### What I do
+
+- **AI workflow design and automation.** Custom API connections between the systems you already run, plus the automated steps in between.
+- **Executive AI coaching.** Founders and CEOs, working inside their real tools and daily workflows, starting with the work already on their plate this week.
+- **Process mapping and playbooks.** I document how the work actually gets done, then turn it into playbooks a team can run. Nothing falls apart when things scale or someone leaves.
+- **Fractional Deal Desk leadership.** Complex deals, approvals, escalations, pricing coordination, and the cross-functional work required to keep revenue moving.
+- **Revenue operations strategy.** Scalable operating models, decision rights, metrics, workflows, and executive visibility.
+- **Escalation management and quarter-end execution.** When high value deals get stuck, I get them moving.
 
 ### Selected work
 
 | Project | What it does |
 | --- | --- |
-| RevOps Maturity Self-Assessment | Interactive scoring tool that grades a company's revenue operations and returns a tailored readout. |
-| Deal Desk Checklist | Operating checklist for standing up a deal desk from scratch, in essential and enterprise versions. |
-| Inbox automation builds | Gmail and Outlook workflow systems that cut manual triage for solo operators and small service businesses. |
+| [RevOps Maturity Self-Assessment](https://angiehavenpoint.github.io/revops-maturity-assessment/) | Interactive scoring tool that shows a company where its revenue operations stand and what to fix first. Live and public. |
+| AI lead and scoring engine | Finds prospects across dozens of sites, scores them, and flags what changed. |
+| Airtable and CRM builds | Pipelines, project trackers, and the automations that keep them current. |
 
-Client engagements are covered by confidentiality, so client repositories here stay private. Happy to walk through any of the work live.
+Client engagements are covered by confidentiality, so client repositories stay private. Happy to walk through any of the work live.
 
 ### Track record
 
@@ -32,4 +36,4 @@ Client engagements are covered by confidentiality, so client repositories here s
 
 - Site: [havenpointconsulting.com](https://havenpointconsulting.com)
 - Email: angie@havenpointconsulting.com
-- Available for fractional engagements, project builds, and paid discovery audits
+- Schedule a free 30 minute consultation, or start with the free RevOps assessment above
