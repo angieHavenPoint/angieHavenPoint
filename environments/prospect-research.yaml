@@ -1,0 +1,8 @@
+# Cloud sandbox for the Haven Point Prospect Scout.
+# Unrestricted networking: prospect websites can't be listed in advance, and
+# `limited` networking would also block web_search/web_fetch for unlisted hosts.
+# This opens full egress to the sandbox too, so keep secrets and client files out of it.
+name: haven-point-prospect-research
+config:
+  type: cloud
+  networking: {type: unrestricted}
