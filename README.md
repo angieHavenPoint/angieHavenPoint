@@ -21,6 +21,7 @@ The goal is not technology for its own sake. It is better decisions, stronger pr
 | --- | --- |
 | [RevOps Maturity Self-Assessment](https://angiehavenpoint.github.io/revops-maturity-assessment/) | Interactive scoring tool that shows a company where its revenue operations stand and what to fix first. Live and public. |
 | AI lead and scoring engine | Finds prospects across dozens of sites, scores them, and flags what changed. |
+| Vaughn AI Conversational Agent | Custom voice AI agent for a moving company, built to quote jobs, answer questions, and search the web in real time. |
 | Airtable and CRM builds | Pipelines, project trackers, and the automations that keep them current. |
 
 Client engagements are covered by confidentiality, so client repositories stay private. Happy to walk through any of the work live.
