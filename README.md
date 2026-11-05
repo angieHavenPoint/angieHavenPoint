@@ -20,7 +20,7 @@ The goal is not technology for its own sake. It is better decisions, stronger pr
 | Project | What it does |
 | --- | --- |
 | [RevOps Maturity Self-Assessment](https://angiehavenpoint.github.io/revops-maturity-assessment/) | Interactive scoring tool that shows a company where its revenue operations stand and what to fix first. Live and public. |
-| AI lead and scoring engine | Finds prospects across dozens of sites, scores them, and flags what changed. |
+| AI lead and scoring engine | Pulls and scores owner and property data for a real estate business, built into a daily top-5 outreach list, weekly market reports, a monthly newsletter, and a market graphic, all client-run. |
 | Vaughn AI Conversational Agent | Custom voice AI agent for a moving company, built to quote jobs, answer questions, and search the web in real time. |
 | Private Executive AI Workspace | Built a private AI workspace for an active investor, covering market and investment research, document analysis, correspondence in his own voice, and reusable voice-driven workflows. |
 | E-commerce Analytics and Ad Automation | Diagnosed and fixed e-commerce tracking across Shopify, GA4, and Google Ads, built AI-assisted reporting with client-ready HTML summaries, and draft Google Ads campaign recommendations. |
