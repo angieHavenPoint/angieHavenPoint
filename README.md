@@ -1,10 +1,10 @@
 ## Angie Spaw
 
-**AI workflows built on operations that actually hold up.**
+**Business Operations | Deal Desk | Revenue Operations | AI Automation**
 
-Founder of [Haven Point Consulting](https://havenpointconsulting.com). I bring Microsoft enterprise operations discipline to AI implementation, then build the automations and integrations your team keeps using.
+I’m a former Microsoft operations lead and the founder of [Haven Point Consulting](https://havenpointconsulting.com). At Microsoft, I supported enterprise sales teams, managed deal pipelines and escalations, and built playbooks that helped teams work more consistently. Through Haven Point, I build AI automations, improve CRM and reporting workflows, and train teams to use the systems I put in place.
 
-The goal is not technology for its own sake. It is better decisions, stronger processes, and less operational friction.
+I’m open to full-time roles, contract work, and consulting projects.
 
 ### What I do
 
@@ -21,6 +21,7 @@ The goal is not technology for its own sake. It is better decisions, stronger pr
 | --- | --- |
 | [RevOps Maturity Self-Assessment](https://angiehavenpoint.github.io/revops-maturity-assessment/) | Interactive scoring tool that shows a company where its revenue operations stand and what to fix first. Live and public. |
 | AI lead and scoring engine | Pulls and scores owner and property data for a real estate business, built into a daily top-5 outreach list, weekly market reports, a monthly newsletter, and a market graphic, all client-run. |
+| Property Management Booking Automation (In progress) | Working directly with a property manager to bring Airbnb, VRBO, and direct bookings into one tracker. Building the handoffs to DocuSign, a shared calendar, QuickBooks invoicing, and cleaner scheduling so the team can see what’s confirmed and what needs follow-up. |
 | Vaughn AI Conversational Agent | Custom voice AI agent for a moving company, built to quote jobs, answer questions, and search the web in real time. |
 | Private Executive AI Workspace | Built a private AI workspace for an active investor, covering market and investment research, document analysis, correspondence in his own voice, and reusable voice-driven workflows. |
 | E-commerce Analytics and Ad Automation | Diagnosed and fixed e-commerce tracking across Shopify, GA4, and Google Ads, built AI-assisted reporting with client-ready HTML summaries, and draft Google Ads campaign recommendations. |
